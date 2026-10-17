@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-labelledby="t d">
+  <title id="t">Complete Developers — المطورين المكتملين</title>
+  <desc id="d">Think, Draw, Build, Prove: one studio-grade workflow skill for AI coding agents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E1512"/><stop offset="1" stop-color="#152620"/>
+    </linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C9A25B"/><stop offset="1" stop-color="#E8CF98"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#C9A25B" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="440" fill="url(#bg)"/>
+  <rect width="1280" height="440" fill="url(#grid)"/>
+  <rect x="40" y="40" width="1200" height="360" rx="6" fill="none" stroke="url(#brass)" stroke-opacity=".55"/>
+  <g font-family="'IBM Plex Sans Arabic','Noto Naskh Arabic','Segoe UI',Tahoma,Arial,sans-serif">
+    <text x="640" y="170" text-anchor="middle" font-size="84" font-weight="700" fill="url(#brass)" direction="rtl">المطورين المكتملين</text>
+    <text x="640" y="235" text-anchor="middle" font-size="40" font-weight="500" fill="#F4EEE2" letter-spacing="6">COMPLETE DEVELOPERS</text>
+    <text x="640" y="285" text-anchor="middle" font-size="22" fill="#B9C4BE">One studio-grade skill: think · draw · plan · design · build · prove</text>
+  </g>
+  <g font-family="'IBM Plex Sans','Segoe UI',Arial,sans-serif" font-size="18" fill="#F4EEE2">
+    <g transform="translate(295 330)"><circle r="5" cx="0" cy="-6" fill="#C9A25B"/><text x="14" y="0">Think</text></g>
+    <g transform="translate(495 330)"><circle r="5" cx="0" cy="-6" fill="#C9A25B"/><text x="14" y="0">Draw</text></g>
+    <g transform="translate(695 330)"><circle r="5" cx="0" cy="-6" fill="#C9A25B"/><text x="14" y="0">Build</text></g>
+    <g transform="translate(895 330)"><circle r="5" cx="0" cy="-6" fill="#C9A25B"/><text x="14" y="0">Prove</text></g>
+  </g>
+</svg>

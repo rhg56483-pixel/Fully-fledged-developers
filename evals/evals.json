@@ -1,0 +1,35 @@
+{
+  "skill_name": "complete-developers",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "سو لي موقع لمطعم",
+      "expected_output": "Prompt Card in Arabic with expected items marked, 3 thumbnails or one chosen layout, charter from charter.py, slices with checks, delivery reply with status words; no invented menu, phone or reviews.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I need a prompt for an AI to build a habit tracker app. Don't build it, just write the prompt.",
+      "expected_output": "Decodes the request and returns a short and/or full exported prompt (numbered requirements, acceptance checks, non-goals) and does not start building.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "My Express API returns 500 when the body is empty. Fix it and keep tokens low.",
+      "expected_output": "Spark lane: repomap or targeted search, reads a range, reproduces first, minimal diff, one focused check, reply under ~6 lines with status words.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "Make the landing page for my perfume brand feel premium, not like a template.",
+      "expected_output": "Atelier lane: archetype luxury-retail with dials, three differing thumbnails, avoids generic tells, charter tokens used, critique protocol reported, visual QA marked not run if it cannot render.",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "Fix the SQL injection in this login handler: db.query('SELECT * FROM users WHERE name=\\'' + name + '\\'')",
+      "expected_output": "Patch mode: root cause, parameterised query diff, compatibility note, regression test suggestion, no claim of 'secure' or 'tested' unless run.",
+      "files": []
+    }
+  ]
+}
